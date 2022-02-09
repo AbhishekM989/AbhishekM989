@@ -2,7 +2,7 @@
 <h1 align="center">Hi , I'm Abhishek Maurya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <hr/>
 <h5 align="center">I Am Passionate Towards Technology Stuff Like Coding, Hacking, Building AI, Making Blockchain Based Project And Many More Stuffs...
-I Spend Most Of My Time In Coding, Making Discord Bot To Make server Management More Easy For Users In Discord !...</h4>
+I Spend Most Of My Time In Coding, Making Discord Bot To Make Server Management More Easy For Users In Discord !...</h4>
 <br>
 
 
