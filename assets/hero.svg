@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050505"/>
+      <stop offset="1" stop-color="#0A0F1C"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00F0FF"/>
+      <stop offset="1" stop-color="#7000FF"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#7000FF" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#7000FF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#00F0FF" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1000" height="280" fill="url(#bg)"/>
+  <rect width="1000" height="280" fill="url(#grid)"/>
+
+  <!-- orbit system -->
+  <circle cx="830" cy="140" r="170" fill="url(#glow)"/>
+  <g transform="translate(830 140) rotate(-20)">
+    <ellipse rx="150" ry="48" stroke="#00F0FF" stroke-opacity="0.45" stroke-dasharray="2 6"/>
+    <ellipse rx="100" ry="32" stroke="#7000FF" stroke-opacity="0.5" stroke-dasharray="1 8"/>
+    <circle r="4" fill="#00F0FF">
+      <animateMotion dur="8s" repeatCount="indefinite" path="M-150 0 A150 48 0 1 1 150 0 A150 48 0 1 1 -150 0"/>
+    </circle>
+    <circle r="3" fill="#7000FF">
+      <animateMotion dur="5s" repeatCount="indefinite" path="M100 0 A100 32 0 1 0 -100 0 A100 32 0 1 0 100 0"/>
+    </circle>
+  </g>
+  <circle cx="830" cy="140" r="24" fill="#050505" stroke="url(#accent)" stroke-width="2"/>
+  <circle cx="830" cy="140" r="5" fill="#00F0FF">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- HUD frame -->
+  <path d="M20 50V20H50 M950 20H980V50 M980 230V260H950 M50 260H20V230" stroke="#00F0FF" stroke-opacity="0.7" stroke-width="1.5"/>
+
+  <g font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace">
+    <text x="60" y="68" fill="#00F0FF" font-size="13" letter-spacing="3">// AIVAARA · FOUNDER</text>
+    <text x="60" y="138" fill="#FFFFFF" font-size="50" font-weight="700" letter-spacing="2">ABHISHEK MAURYA</text>
+    <rect x="60" y="158" width="140" height="3" fill="url(#accent)"/>
+    <text x="60" y="195" fill="#8B9BB4" font-size="16" letter-spacing="1">LOW-LEVEL SYSTEMS  ×  AI  ×  ORBITAL MECHANICS</text>
+    <text x="60" y="250" fill="#5C6F87" font-size="11" letter-spacing="2">19.0760° N · 72.8777° E · MUMBAI</text>
+    <text x="900" y="250" fill="#00F0FF" font-size="11" letter-spacing="2" text-anchor="end">● ONLINE</text>
+  </g>
+</svg>
