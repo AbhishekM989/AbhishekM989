@@ -2,7 +2,7 @@
 
 <img src="./assets/hero.svg" width="100%" alt="Abhishek Maurya — Low-level systems, AI, orbital mechanics" />
 
-<a href="https://github.com/USERNAME">
+<a href="https://github.com/AbhishekM989">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&repeat=true&width=720&height=44&lines=Low+Level+Systems+%26+C%2B%2B+Architecture;Space+Computing+%26+Orbital+Mechanics;FastAPI+Backend+Engineering;Offensive+%26+Defensive+Security" alt="Typing animation" />
 </a>
 
@@ -49,15 +49,15 @@
 ## `> telemetry`
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&include_all_commits=true&custom_title=SYS.TELEMETRY&hide_border=false&border_radius=6&bg_color=00000000&border_color=00F0FF&title_color=00F0FF&icon_color=7000FF&text_color=9FB3C8" alt="GitHub stats" />
-  <img height="170" src="https://streak-stats.demolab.com?user=USERNAME&hide_border=false&border_radius=6&background=00000000&border=00F0FF&stroke=1A2B3C&ring=7000FF&fire=00F0FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00F0FF&sideLabels=9FB3C8&dates=5C6F87" alt="GitHub streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AbhishekM989&show_icons=true&include_all_commits=true&custom_title=SYS.TELEMETRY&hide_border=false&border_radius=6&bg_color=00000000&border_color=00F0FF&title_color=00F0FF&icon_color=7000FF&text_color=9FB3C8" alt="GitHub stats" />
+  <img height="170" src="https://streak-stats.demolab.com?user=AbhishekM989&hide_border=false&border_radius=6&background=00000000&border=00F0FF&stroke=1A2B3C&ring=7000FF&fire=00F0FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00F0FF&sideLabels=9FB3C8&dates=5C6F87" alt="GitHub streak" />
 </div>
 
 ## `> trajectory`
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbhishekM989/AbhishekM989/output/github-snake-dark.svg" />
     <img alt="Contribution snake" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-dark.svg" />
   </picture>
 </div>
