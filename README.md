@@ -17,7 +17,7 @@
 │  NAME       Abhishek Maurya                                  │
 │  BASE       Mumbai, India                                    │
 │  ROLE       Founder @ AIVAARA  ·  aivaara.in                 │
-│  EDU        B.Tech CSE (AI & ML) · Class of 2029 · Year 2    │
+│  EDU        B.E. CSE (AI & ML) · Class of 2029 · Year 2    │
 │  FOCUS      Low-level systems × AI × Orbital mechanics       │
 │             × Fast backend architectures                     │
 ├──────────────────────────────────────────────────────────────┤
